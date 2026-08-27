@@ -1,0 +1,8 @@
+# Secrets — never commit a live token
+.Renviron
+
+# R session cruft
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
